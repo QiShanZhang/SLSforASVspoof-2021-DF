@@ -1,0 +1,5 @@
+#cuda==11.1
+librosa==0.9.1
+tensorboardX==2.5
+tensorboard
+pandas
