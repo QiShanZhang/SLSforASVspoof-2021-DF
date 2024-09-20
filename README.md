@@ -1,6 +1,6 @@
 Audio Deepfake Detection with XLS-R and SLS classfier
 ===============
-This repository contains our implementation of the paper "Audio Deepfake Detection with XLS-R and SLS classfier  Qishan Zhang, Shuangbing Wen, Tao Hu ACM MM 2024"（https://openreview.net/pdf?id=acJMIXJg2u)
+This repository contains our implementation of the paper ["Audio Deepfake Detection with XLS-R and SLS classfier  Qishan Zhang, Shuangbing Wen, Tao Hu ACM MM 2024"]（https://openreview.net/pdf?id=acJMIXJg2u)
 
 
 
@@ -66,6 +66,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py   --track=In-the-Wild --is_eval --eval
                                         --eval_output=/path/to/your/scores_In-the-Wild.txt
 ```
 We also provide a pre-trained model. To use it, you can download from [here](https://drive.google.com/drive/folders/13vw_AX1jHdYndRu1edlgpdNJpCX8OnrH?usp=sharing) and change the --model_path to our pre-trained model.
+[Here](https://pan.baidu.com/s/1dj-hjvf3fFPIYdtHWqtCmg?pwd=shan) is the baiduwangpan download link.
 
 Compute the EER(%) use three 'scores.txt' file
 ```
