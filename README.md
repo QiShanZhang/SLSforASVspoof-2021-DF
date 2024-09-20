@@ -1,6 +1,6 @@
 Audio Deepfake Detection with XLS-R and SLS classfier
 ===============
-This repository contains our implementation of the paper "Audio Deepfake Detection with XLS-R and SLS classfier  Qishan Zhang, Shuangbing Wen, Tao Hu ACM MM 2024"\url{https://openreview.net/forum?id=acJMIXJg2u&referrer=%5Bthe%20profile%20of%20Qishan%20Zhang%5D(%2Fprofile%3Fid%3D~Qishan_Zhang2)}
+This repository contains our implementation of the paper "Audio Deepfake Detection with XLS-R and SLS classfier  Qishan Zhang, Shuangbing Wen, Tao Hu ACM MM 2024"
 
 
 
