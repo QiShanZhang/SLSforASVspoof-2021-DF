@@ -7,7 +7,7 @@ This repository contains our implementation of the paper ["Audio Deepfake Detect
 ## Installation
 First, clone the repository locally, create and activate a conda environment, and install the requirements :
 ```
-$ download at https://openreview.net/attachment?id=acJMIXJg2u&name=supplementary_material(contain the fairseq folder which include changed xls-r code can return the hidden layer result)
+$ download at https://openreview.net/attachment?id=acJMIXJg2u&name=supplementary_material (contain the fairseq folder which include changed xls-r code can return the hidden layer result)
 $ conda create -n SLS python=3.7
 $ conda activate SLS
 $ pip install torch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1
